@@ -4,7 +4,7 @@ York City, and do trees and green spaces help address such environmental inequal
 
 This repo states our evaluation on the overall pattern of environmental inequality by comparing neighborhood land surface temperature and socio-economic data. We combined the following variables describing environmental amenities and negative externalities to explore the causes of these urban inequalities.
 
-The full report is [here](CRP3850 Data Science Final Report_Submission.pdf).
+The full report is [here](CRP3850_Report.pdf).
 
 ## Dataset
 ### Dataset 1: New York City 2015 Tree Census
