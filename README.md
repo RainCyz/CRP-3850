@@ -4,6 +4,8 @@ York City, and do trees and green spaces help address such environmental inequal
 
 This repo states our evaluation on the overall pattern of environmental inequality by comparing neighborhood land surface temperature and socio-economic data. We combined the following variables describing environmental amenities and negative externalities to explore the causes of these urban inequalities.
 
+The full report is [here](CRP3850 Data Science Final Report_Submission.pdf).
+
 ## Dataset
 ### Dataset 1: New York City 2015 Tree Census
 This dataset includes the geographic coordinates of all trees in New York City and their species, diameter and perceived health. This data is publicly available on the city’s Open Data Portal and contains 684-thousand entries. The data was last updated in 2017. We have aggregated the tree count and tree density data for each of the over 6,000 block groups.
