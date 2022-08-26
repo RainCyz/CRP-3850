@@ -1,0 +1,86 @@
+Obs = (4227,)
+Current Y: Temp_Mean
+Coef Pct White = -0.006711405079967221
+Coef Pct Bachelors or More = -0.02227797856516584
+Coef Pct Unemployed = 0.0036586175606777953
+Coef Ln Income = 0.1814704224990523
+Coef Ln Housing Value = -0.05120737350209901
+Coef Pct Rent 50 or More = 0.004407380527691254
+R_score = 0.14462635775467236
+
+
+Obs = (4081,)
+Current Y: Mean greenview
+Coef Pct White = 0.026106622134807578
+Coef Pct Bachelors or More = -0.010221320133083439
+Coef Pct Unemployed = -0.004111781380264478
+Coef Ln Income = 2.7505115302714693
+Coef Ln Housing Value = -2.2604575390908805
+Coef Pct Rent 50 or More = -0.007454885965773303
+R_score = 0.07239541027288321
+
+
+Obs = (4227,)
+Current Y: Tree_density
+Coef Pct White = 7.770349284054272e-08
+Coef Pct Bachelors or More = 4.1265848019525013e-07
+Coef Pct Unemployed = -1.5144148445148806e-07
+Coef Ln Income = -3.6707913783996076e-06
+Coef Ln Housing Value = 1.641313992567267e-05
+Coef Pct Rent 50 or More = -6.568498950795439e-08
+R_score = 0.10422452822318995
+
+
+Obs = (2993,)
+Current Y: Mean PM 2.5
+Coef Pct White = -0.003286811154322437
+Coef Pct Bachelors or More = 0.01617196399096063
+Coef Pct Unemployed = -0.0017539498966325307
+Coef Ln Income = -0.2814125916275096
+Coef Ln Housing Value = 0.2713784575699198
+Coef Pct Rent 50 or More = -0.0009840656918627746
+R_score = 0.26386715675543604
+
+
+Obs = (4227,)
+Current Y: Temp_Mean
+Coef Pct White = -0.006711405079967221
+Coef Pct Bachelors or More = -0.02227797856516584
+Coef Pct Unemployed = 0.0036586175606777953
+Coef Ln Income = 0.1814704224990523
+Coef Ln Housing Value = -0.05120737350209901
+Coef Pct Rent 50 or More = 0.004407380527691254
+R_score = 0.14462635775467236
+
+
+Obs = (2997,)
+Current Y: Mean O3
+Coef Pct White = 0.0023646473304272135
+Coef Pct Bachelors or More = -0.017550882577475467
+Coef Pct Unemployed = 4.714120151391981e-05
+Coef Ln Income = -0.12154475573541197
+Coef Ln Housing Value = -0.09539048798333868
+Coef Pct Rent 50 or More = -0.0017520613181986697
+R_score = 0.09667857174627925
+
+
+Obs = (2997,)
+Current Y: Mean NO
+Coef Pct White = -0.015300411229068665
+Coef Pct Bachelors or More = 0.05064061015697783
+Coef Pct Unemployed = 0.006283845074222851
+Coef Ln Income = -1.1578895364714348
+Coef Ln Housing Value = 1.1650348133056811
+Coef Pct Rent 50 or More = -0.006010072988898375
+R_score = 0.14943982088293262
+
+
+Obs = (2997,)
+Current Y: Mean NO2
+Coef Pct White = -0.016356492701537946
+Coef Pct Bachelors or More = 0.07141848111084012
+Coef Pct Unemployed = -0.005389753640065147
+Coef Ln Income = -2.102758491433066
+Coef Ln Housing Value = 1.3016051931506336
+Coef Pct Rent 50 or More = -0.003325035447642493
+R_score = 0.25816875928769434
